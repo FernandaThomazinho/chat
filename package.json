@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FernandaThomazinho/chat/issues"
   },
-  "homepage": "https://github.com/FernandaThomazinho/chat#readme"
+  "homepage": "https://github.com/FernandaThomazinho/chat#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
